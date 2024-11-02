@@ -54,6 +54,9 @@ Start the server
   npm run dev
 ```
 
+## Admin Login Credentials
+Email => admin@gmail.com    
+Password => password
 
 
 ## Authors
